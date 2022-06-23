@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "56049816038",
+    "project_id": "pinball-dev-cad6e",
+    "storage_bucket": "pinball-dev-cad6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56049816038:android:5ca474e692f1e2749d0627",
+        "android_client_info": {
+          "package_name": "com.example.pinball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56049816038-cqscgcdsa8es2v89k21a4t9d9ii7es4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASWRZhWaF-Bdzfdd1hz-8l1FeTKmZOgbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56049816038-cqscgcdsa8es2v89k21a4t9d9ii7es4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

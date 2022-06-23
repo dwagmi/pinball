@@ -28,3 +28,4 @@ Next, because I am running on a Mac Studio (M1 Max Chip), I had to use the follo
 arch -x86_64 flutter run
 ```
 
+
