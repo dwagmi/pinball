@@ -28,7 +28,7 @@ class AuthenticationRepository {
   /// [AuthenticationException].
   Future<void> authenticateAnonymously() async {
     try {
-      await _firebaseAuth.signInAnonymously();
+      // await _firebaseAuth.signInAnonymously();
     } on Exception catch (error, stackTrace) {
       throw AuthenticationException(error, stackTrace);
     }
